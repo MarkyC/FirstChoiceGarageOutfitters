@@ -27,8 +27,16 @@
                      src="<?php echo base_url(); ?>img/cabinets/geneva/wall-2.jpg"
                      alt="19 inch Modular Wall storage Cabinet">
                 <div class="alt-view">
-                    <a href="<?php echo base_url(); ?>img/cabinets/geneva/wall-2.jpg"><img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/wall-2.jpg" alt="19 inch Modular Wall storage Cabinet"></a>
-                    <a href="<?php echo base_url(); ?>img/cabinets/geneva/wall-2-closed.jpg"><img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/wall-2.jpg" alt="19 inch Modular Wall storage Cabinet"></a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/geneva/wall-2.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/geneva/wall-2.jpg"
+                             alt="19 inch Modular Wall storage Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/geneva/wall-2-closed.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/geneva/wall-2-closed.jpg"
+                             alt="19 inch Modular Wall storage Cabinet">
+                    </a>
                 </div>
             </div>
             <div class="col-md-8">
