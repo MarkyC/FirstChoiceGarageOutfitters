@@ -41,6 +41,9 @@
 $route['default_controller'] = "home";
 $route['404_override'] = '';
 
+/* Cabinets */
+//$route['cabinets/geneva'] = "Cabinets/Geneva/home";
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
