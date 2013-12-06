@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Geneva_Home extends CI_Controller {
+class Cabinets extends CI_Controller {
 
     /**
      * Index Page for this controller.
@@ -19,12 +19,21 @@ class Geneva_Home extends CI_Controller {
      */
     public function index()
     {
+        $this->buildView(); // TODO: Change to all cabinets
+    }
+
+    public function geneva()
+    {
+        $this->buildView('cabinets/geneva/home');
+    }
+
+    private function buildView($page = 'cabinets/geneva/home') {
         $this->load->helper('url');
 
         $this->load->view('static/site_header');
         $this->load->view('static/header');
         $this->load->view('static/nav');
-        $this->load->view('cabinets/geneva/home');
+        $this->load->view($page);
         $this->load->view('static/footer');
         $this->load->view('static/site_footer');
     }

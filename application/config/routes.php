@@ -42,7 +42,7 @@ $route['default_controller'] = "home";
 $route['404_override'] = '';
 
 /* Cabinets */
-$route['cabinets/geneva'] = "cabinets/geneva_home";
+//$route['cabinets/(:any)'] = 'cabinets/$1';
 
 
 /* End of file routes.php */

@@ -21,7 +21,7 @@
                             <a class="first" href="#">Cabinets <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
                                 <li><a class="first" href="#">Evolution</a></li>
-                                <li><a href="<?php echo base_url(); ?>cabinets/geneva_home">Geneva</a></li>
+                                <li><a href="<?php echo base_url(); ?>cabinets/geneva">Geneva</a></li>
                                 <li><a href="#">Unique</a></li>
                                 <li><a href="#">Diamond Plate</a></li>
                                 <li><a href="#">Garage Gear</a></li>
