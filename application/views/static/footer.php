@@ -45,7 +45,7 @@
             <div class="col-md-2">
                 <h1>Navigation</h1>
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="<?php echo base_url(); ?>">Home</a></li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Gallery</a></li>
                     <li><a href="#">Contact</a></li>
@@ -53,24 +53,24 @@
                 </ul>
             </div>
             <div class="col-md-2">
-                <h1>Cabintets</h1>
+                <h1><a href="<?php echo base_url(); ?>cabinets/">Cabinets</a></h1>
                 <ul>
                     <li><a href="#">Evolution</a></li>
-                    <li><a href="#">Geneva</a></li>
+                    <li><a href="<?php echo base_url(); ?>cabinets/geneva/">Geneva</a></li>
                     <li><a href="#">Unique</a></li>
                     <li><a href="#">Diamond Plate</a></li>
                     <li><a href="#">Garage Gear</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
-                <h1>Wall Organization</h1>
+                <h1><a href="<?php echo base_url(); ?>wall_organization/">Wall Organization</a></h1>
                 <ul>
                     <li><a href="#">Slat Wall</a></li>
                     <li><a href="#">Tire Racks</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
-                <h1>Flooring</h1>
+                <h1><a href="<?php echo base_url(); ?>flooring/">Flooring</a></h1>
                 <ul>
                     <li><a href="#">HP Spartacote</a></li>
                     <li><a href="#">Racedeck</a></li>
@@ -79,7 +79,7 @@
                 </ul>
             </div>
             <div class="col-md-2">
-                <h1>Overhead Storage</h1>
+                <h1><a href="<?php echo base_url(); ?>overhead/">Overhead Storage</a></h1>
                 <ul>
                     <li><a href="#">Monster Racks</a></li>
                     <li><a href="#">Bike Slingger</a></li>
@@ -87,7 +87,7 @@
                 </ul>
             </div>
             <div class="col-md-2">
-                <h1>Other Services</h1>
+                <h1><a href="<?php echo base_url(); ?>other_services">Other Services</a></h1>
                 <ul>
                     <li><a href="#">Automotive Lifts</a></li>
                     <li><a href="#">Accessories</a></li>
