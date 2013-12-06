@@ -22,9 +22,16 @@ class Cabinets extends CI_Controller {
         $this->buildView(); // TODO: Change to all cabinets
     }
 
-    public function geneva()
+    public function geneva($page = 'cabinets/geneva/home')
     {
-        $this->buildView('cabinets/geneva/home');
+        switch ($page) {
+
+            case 'lockers':
+                $this->buildView('cabinets/geneva/lockers');
+
+            default:
+                $this->buildView($page);
+        }
     }
 
     private function buildView($page = 'cabinets/geneva/home') {

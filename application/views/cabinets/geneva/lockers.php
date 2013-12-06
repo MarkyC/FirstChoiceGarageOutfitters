@@ -1,6 +1,6 @@
 <div class="container cabinets">
 
-    <h1>Geneva Cabinets</h1>
+    <h1>Geneva Lockers</h1>
 
     <div class="row">
         <div class="col-md-4">
