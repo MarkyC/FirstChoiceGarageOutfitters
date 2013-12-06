@@ -27,11 +27,27 @@ class Cabinets extends CI_Controller {
         switch ($page) {
 
             case "lockers":
-                $this->buildView('cabinets/geneva/lockers');
+                $this->buildView('cabinets/geneva/locker');
             break;
 
             case "base":
                 $this->buildView('cabinets/geneva/base');
+            break;
+
+            case "service":
+                $this->buildView('cabinets/geneva/service');
+            break;
+
+            case "wall":
+                $this->buildView('cabinets/geneva/wall');
+            break;
+
+            case "shelf":
+                $this->buildView('cabinets/geneva/shelf');
+            break;
+
+            case "bench":
+                $this->buildView('cabinets/geneva/bench');
             break;
 
             default:
