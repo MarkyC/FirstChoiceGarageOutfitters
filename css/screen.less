@@ -170,67 +170,6 @@ div.logo {
 	right: 5px;
 }
 
-/* Display: A Large image with marketing text on top */
-.display {
-	position: relative;
-	background: url(../img/display-bg.png) no-repeat bottom center;
-	min-height: 500px;
-	height: 500px;
-	max-height: 500px;
-}
-
-.display h1 {
-	position: absolute;
-	top: 50px;
-	left: 0;
-	right: 0;
-	
-	font-family: @racing;
-	text-align: center;
-	font-size: 5em;
-	
-	color: @light-grey;
-	text-shadow: 1px 1px 10px black;
-}
-
-.display p.lead {
-	position: absolute;
-	top: 250px;
-	left:0;
-	right:0;
-
-	font-family: @lilita;
-	font-size: 2em;
-	
-	text-align: center;
-	color: white;
-	text-shadow: 1px 1px 15px black;
-}
-
-.display .spartacote {
-	position: absolute;
-	bottom: 75px;
-	left: 0;
-	right: 0;
-	text-align: center;
-}
-/* Spartacote Logo 		*/
-/* 		and				*/
-/* Learn More Button 	*/
-.display .spartacote img,
-.display .spartacote button {
-	display: inline;
-}
-
-/* Marketing Messages */
-.marketing {
-	text-align: center;
-}
-
-.icon-huge {
-	font-size: 7em;
-}
-
 /* Footer */
 
 footer {
@@ -292,6 +231,91 @@ footer .nav {
           color: darken(white, 5%);
         }
       }
+    }
+  }
+}
+
+/* Home Page Styles */
+/* Display: A Large image with marketing text on top */
+.display {
+  position: relative;
+  background: url(../img/display-bg.png) no-repeat bottom center;
+  min-height: 500px;
+  height: 500px;
+  max-height: 500px;
+}
+
+.display h1 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+
+  font-family: @racing;
+  text-align: center;
+  font-size: 5em;
+
+  color: @light-grey;
+  text-shadow: 1px 1px 10px black;
+}
+
+.display p.lead {
+  position: absolute;
+  top: 250px;
+  left:0;
+  right:0;
+
+  font-family: @lilita;
+  font-size: 2em;
+
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 15px black;
+}
+
+.display .spartacote {
+  position: absolute;
+  bottom: 75px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+/* Spartacote Logo 		*/
+/* 		and				*/
+/* Learn More Button 	*/
+.display .spartacote img,
+.display .spartacote button {
+  display: inline;
+}
+
+/* Marketing Messages */
+.marketing {
+  text-align: center;
+}
+
+.icon-huge {
+  font-size: 7em;
+}
+
+/* Cabinets Page styles */
+.cabinets {
+  .col-md-4 {
+
+    background: white;
+    padding: 15px;
+    border: 1px solid @darker-med-red;
+
+    img {
+      display: block;
+      margin: 0 auto;
+      height: 250px;
+      width: 250px;
+    }
+
+    h1 {
+      text-align: center;
+      width: 100%;
+      display: block;
     }
   }
 }
