@@ -1,5 +1,5 @@
 <!-- Display: A Large image with marketing text on top -->
-<div class="display hidden-sm">
+<div class="display hidden-xs">
     <div class="container">
         <h1>We Make Your Garage <strong>Beautiful</strong></h1>
         <p class="lead">
@@ -18,17 +18,17 @@
 <div class="container body-container">
 
     <div class="row">
-        <div class="col-lg-4 marketing">
-            <i class="fa fa-check-sign icon-huge"></i>
+        <div class="col-sm-4 marketing">
+            <i class="fa fa-check-square icon-huge"></i>
             <h1>Better Products</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget erat tincidunt, malesuada urna sit amet, porta mi. Cras blandit. </p>
         </div>
-        <div class="col-lg-4 marketing">
+        <div class="col-sm-4 marketing">
             <i class="fa fa-dollar icon-huge"></i>
             <h1>Better Prices</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget erat tincidunt, malesuada urna sit amet, porta mi. Cras blandit. </p>
         </div>
-        <div class="col-lg-4 marketing">
+        <div class="col-sm-4 marketing">
             <i class="fa fa-gears icon-huge"></i>
             <h1>Better Service</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget erat tincidunt, malesuada urna sit amet, porta mi. Cras blandit. </p>

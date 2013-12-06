@@ -47,6 +47,7 @@
 
 body {
 	background: @light-grey;
+    font-size: 16px;
 }
 
 .body-container {
@@ -237,6 +238,11 @@ footer {
 	color: white;
 }
 
+footer h1, footer h2, footer h3,
+footer h4, footer h5, footer h6 {
+  color: darken(@darker-med-red, 20%);
+}
+
 footer h1 {
 	font-size: 1.5em;
 }
@@ -256,4 +262,36 @@ footer .copyright {
 	
 	background: darken(@darker-med-red, 10%);
 	color: @light-grey;
+}
+
+footer .about ul {
+  list-style: none;
+
+  li {
+    display: inline;
+    margin-right: 40px;
+  }
+}
+
+footer .nav {
+  h1 {
+    font-size: 1em;
+    font-weight: bold;
+  }
+
+  ul {
+    padding-left: 10px;
+
+    li {
+      list-style: none;
+
+      a {
+        color: white;
+        font-size: 0.9em;
+        &:hover {
+          color: darken(white, 5%);
+        }
+      }
+    }
+  }
 }
