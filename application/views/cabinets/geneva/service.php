@@ -6,7 +6,9 @@
 
         <div class="row">
             <div class="col-md-4">
-                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/cabinet-service.jpg" alt="2 Door Modular Base Cabinet">
+                <img class="img-responsive"
+                     src="<?php echo base_url(); ?>img/cabinets/geneva/cabinet-service.jpg"
+                     alt="2 Door Service Cabinet">
             </div>
             <div class="col-md-8">
                 <h1>2 Door Service Cabinet</h1>
@@ -17,7 +19,9 @@
 
         <div class="row">
             <div class="col-md-4">
-                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/cabinet-service-alternate.jpg" alt="2 Door Modular Base Cabinet">
+                <img class="img-responsive"
+                     src="<?php echo base_url(); ?>img/cabinets/geneva/cabinet-service-alternate.jpg"
+                     alt="3 Door Service Cabinet">
             </div>
             <div class="col-md-8">
                 <h1>3 Door Service Cabinet</h1>
