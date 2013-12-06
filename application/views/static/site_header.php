@@ -15,7 +15,7 @@
     <!-- Font Awesome Fonts -->
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <!-- Custom Site LESS -->
-    <link rel="stylesheet/less" type="text/css" href="css/screen.less" />
+    <link rel="stylesheet/less" type="text/css" href="<?php echo base_url(); ?>css/screen.less" />
 
 </head>
 <body>

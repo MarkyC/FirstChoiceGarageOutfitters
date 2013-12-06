@@ -19,6 +19,8 @@ class Home extends CI_Controller {
 	 */
 	public function index()
 	{
+        $this->load->helper('url');
+
 		$this->load->view('static/site_header');
 		$this->load->view('static/header');
 		$this->load->view('static/nav');

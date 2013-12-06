@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Home extends CI_Controller {
+class Geneva_Home extends CI_Controller {
 
     /**
      * Index Page for this controller.
@@ -19,6 +19,8 @@ class Home extends CI_Controller {
      */
     public function index()
     {
+        $this->load->helper('url');
+
         $this->load->view('static/site_header');
         $this->load->view('static/header');
         $this->load->view('static/nav');

@@ -38,12 +38,11 @@
 |
 */
 
-//$route['default_controller'] = "home";
-$route['default_controller'] = "../controllers/cabinets/geneva/home";
+$route['default_controller'] = "home";
 $route['404_override'] = '';
 
 /* Cabinets */
-//$route['cabinets/geneva'] = "Cabinets/Geneva/home";
+$route['cabinets/geneva'] = "cabinets/geneva_home";
 
 
 /* End of file routes.php */
