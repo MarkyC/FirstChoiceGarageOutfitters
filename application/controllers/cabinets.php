@@ -26,8 +26,13 @@ class Cabinets extends CI_Controller {
     {
         switch ($page) {
 
-            case 'lockers':
+            case "lockers":
                 $this->buildView('cabinets/geneva/lockers');
+            break;
+
+            case "base":
+                $this->buildView('cabinets/geneva/base');
+            break;
 
             default:
                 $this->buildView($page);

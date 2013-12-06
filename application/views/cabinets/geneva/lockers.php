@@ -1,53 +1,31 @@
-<div class="container cabinets">
+<div class="container">
 
     <h1>Geneva Lockers</h1>
 
-    <div class="row">
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/Locker-open.jpg" alt="Lockers">
-            <h1>Lockers</h1>
-        </div>
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/base-drawer.jpg" alt="Base Cabinets">
-            <h1>Base Cabinets</h1>
-        </div>
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/cabinet-service.jpg" alt="Service Cabinets">
-            <h1>Service Cabinets</h1>
-        </div>
-    </div>
+    <div class="product">
 
-    <div class="row">
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/wall-3.jpg" alt="Wall Storage">
-            <h1>Wall Storage</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/Locker-alternate-open.jpg" alt="Lockers">
+            </div>
+            <div class="col-md-8">
+                <h1>Tall Sports Gear Locker</h1>
+                <h2>30"W x 18"D x 66"H</h2>
+                <p>Four fully adjustable half shelves. Placed left or right of center position allow for up to 14 placement positions to maximize you’re your sports locker storage versatility. Weather its sports and recreation equipment or lawn and garden tools many items found in the garage or shop will be right at home here, and with the recessed side handles large oversized casters moving it around the garage is a breeze. If your storing valuables potentially hazards chemicals a quick turn of the handle and a turn of the key will keep it all secure.</p>
+            </div>
         </div>
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/shelf-3.jpg" alt="Wall-Units">
-            <h1>Wall Units</h1>
-        </div>
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/bench-6.jpg" alt="Benches">
-            <h1>Benches</h1>
-        </div>
-    </div>
 
-    <h1>Packages</h1>
-
-    <div class="row">
-        <div class="col-xs-12">
-            <img src="<?php echo base_url(); ?>img/cabinets/geneva/package.jpg" alt="Package">
-            <h1>Complete Geneva Package</h1>
-            <h2>What you get:</h2>
-            <ul>
-                <li>An Item</li>
-                <li>Another Item</li>
-                <li>Another Item</li>
-                <li>An Item</li>
-                <li>Another Item</li>
-                <li>An Item</li>
-            </ul>
+        <div class="row">
+            <div class="col-md-4">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/geneva/Locker-open.jpg" alt="Lockers">
+            </div>
+            <div class="col-md-8">
+                <h1> Tall Storage Locker</h1>
+                <h2>30"W x 18"D x 66"H</h2>
+                <p>Three fully adjustable shelves adjust up to seven positions fixed clips insure they are always level all steel construction. Store loads of garage chemicals, polishes and waxes, gardening tools and insecticides shop tools cases and kits, automotive accessories additives and oils and spares, house hold overflow of cleaners and supplies sport recreation and hobby needs. You name it they will find a home here.</p>
+            </div>
         </div>
-    </div>
+
+    </div> <!-- /product -->
 
 </div> <!-- /container -->
