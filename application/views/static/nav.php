@@ -1,6 +1,6 @@
 <!-- navbar -->
 <nav class="navbar" role="navigation">
-    <div class="container">
+    <!--<div class="container">-->
 
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -62,5 +62,5 @@
 
             </ul>
         </div><!--/.nav-collapse -->
-    </div>
+    <!--</div>-->
 </nav>
