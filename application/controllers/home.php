@@ -21,7 +21,7 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('static/site_header');
 		$this->load->view('static/header');
-		$this->load->view('static/navigation');
+		$this->load->view('static/nav');
 		$this->load->view('home');
 		$this->load->view('static/footer');
 		$this->load->view('static/site_footer');
