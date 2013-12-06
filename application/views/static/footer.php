@@ -97,6 +97,6 @@
     </div><!-- /container -->
 
     <p class="copyright">
-        &copy 2013 First Choice Garage Outfitters | Website by <a href="http://MarcoCirillo.name">Marco Cirillo</a>
+        &copy; 2013 First Choice Garage Outfitters | Website by <a href="http://MarcoCirillo.name">Marco Cirillo</a>
     </p>
 </footer>
