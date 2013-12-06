@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Marco Cirillo">
 
-    <title>Built By Marco Cirillo</title>
+    <title>First Choice Garage Outfitters</title>
 
     <!-- Bootstrap core CSS -->
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
@@ -16,6 +16,6 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <!-- Custom Site LESS -->
     <link rel="stylesheet/less" type="text/css" href="css/screen.less" />
-    <title>First Choice Garage Outfitters</title>
+
 </head>
 <body>
