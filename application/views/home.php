@@ -19,17 +19,17 @@
 
     <div class="row">
         <div class="col-lg-4 marketing">
-            <i class="icon-check-sign icon-huge"></i>
+            <i class="fa fa-check-sign icon-huge"></i>
             <h1>Better Products</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget erat tincidunt, malesuada urna sit amet, porta mi. Cras blandit. </p>
         </div>
         <div class="col-lg-4 marketing">
-            <i class="icon-dollar icon-huge"></i>
+            <i class="fa fa-dollar icon-huge"></i>
             <h1>Better Prices</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget erat tincidunt, malesuada urna sit amet, porta mi. Cras blandit. </p>
         </div>
         <div class="col-lg-4 marketing">
-            <i class="icon-gears icon-huge"></i>
+            <i class="fa fa-gears icon-huge"></i>
             <h1>Better Service</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget erat tincidunt, malesuada urna sit amet, porta mi. Cras blandit. </p>
         </div>
