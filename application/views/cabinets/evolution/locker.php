@@ -39,6 +39,7 @@
                 <h1>E-300 Locker</h1>
                 <h2>36"W x 24"D 81"H 218lbs</h2>
                 <p>This cabinet provides a versatile high volume storage space. Safely store important equipment, lawn and pool chemicals as this cabinet can be locked. The cabinet has an all welded construction, 4 adjustable shelves, forged aluminum lockable handle and adjustable legs.</p>
+                <?php include("colors.php") ?>
             </div>
         </div>
 
@@ -97,6 +98,7 @@
                 <h1>E-350 Locker</h1>
                 <h2>36"W x 24"D 81"H 204lbs</h2>
                 <p>This multi purpose storage cabinet was created for those hard to store items such as ladders, sports apparel, lawn & gardening equipment. The cabinet has an all welded steel construction, louvered panels on both the back and the inside of the doors for storage accessories included with the cabinet. Forged aluminum lockable handle will keep your items safely stored away. This unit also has adjustable legs.</p>
+                <?php include("colors.php") ?>
             </div>
         </div>
 
@@ -135,6 +137,19 @@
                 <h1>E-400 Locker</h1>
                 <h2>36"W x 24"D 84"H 209lbs</h2>
                 <p>This cabinet is for the active person, a must have for athletes to store all their equipment. An overhead fan is integrated into this unit with perforated shelving and door vents for maximum air circulation. All welded steel construction with aluminum forged lockable handle and adjustable legs.</p>
+                <?php include("colors.php") ?>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/evolution/E-460.png" alt="Evolution E-460 Locker">
+            </div>
+            <div class="col-md-8">
+                <h1>E-460 Locker</h1>
+                <h2>36"W x 24"D 81"H 211lbs</h2>
+                <p>The perfect storage closet for both clothing and footwear. Clear the messy clutter, store and protect your seasonal clothes and footwear. You can store everything in this cabinet, as it comes with two adjustable shelves and a hanging pole. This cabinet has an all welded construction, two adjustable shelves, forged aluminium lockable handle and adjustable legs.</p>
+                <?php include("colors.php") ?>
             </div>
         </div>
 

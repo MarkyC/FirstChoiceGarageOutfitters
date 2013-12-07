@@ -24,6 +24,7 @@
                 <h1>E-450 Cabinet</h1>
                 <h2>36"W x 13"D x 20.75"H 48lbs</h2>
                 <p>This small wall cabinet is great for cans, cleaning products and for smaller items to be stored above the workspace. All welded construction comes with 1 adjustable shelf and forged aluminium lockable handle. Can be wall mounted. </p>
+                <?php include("colors.php") ?>
             </div>
         </div>
 
@@ -47,6 +48,7 @@
                 <h1>E-470 Cabinet</h1>
                 <h2>36"W x 24"D x 20.75"H 48lbs</h2>
                 <p>This small wall cabinet is great for cans, cleaning products and for smaller items to be stored above the workspace. All welded construction comes with 1 adjustable shelf and forged aluminium lockable handle. Can be wall mounted. </p>
+                <?php include("colors.php") ?>
             </div>
         </div>
 

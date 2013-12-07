@@ -27,13 +27,13 @@
         <div class="col-md-4">
             <a href="<?php echo base_url(); ?>cabinets/diamond_plate">
                 <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/diamond-plate/package.gif" alt="Diamond Plate Cabinets">
-                <h1>Diamond Plate Cabinets</h1>
+                <h2>Diamond Plate Cabinets</h2>
             </a>
         </div>
         <div class="col-md-4">
             <a href="<?php echo base_url(); ?>cabinets/gladiator">
                 <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/gladiator/package.jpg" alt="Gladiator Garage Gear Cabinets">
-                <h1>Gladiator Garage Gear Cabinets</h1>
+                <h2>Gladiator Garage Gear Cabinets</h2>
             </a>
         </div>
         <!--<div class="col-md-4">
