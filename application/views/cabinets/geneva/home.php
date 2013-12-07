@@ -1,4 +1,4 @@
-<div class="container cabinets">
+<div class="container gallery">
 
     <h1>Geneva Cabinets</h1>
 
