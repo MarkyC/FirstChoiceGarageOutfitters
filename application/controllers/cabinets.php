@@ -24,44 +24,8 @@ class Cabinets extends CI_Controller {
     public function evolution($page = 'cabinets/evolution/home') {
         switch ($page) {
 
-            case "e300":
-                $this->buildView('cabinets/evolution/e300');
-            break;
-
-            case "e350":
-                $this->buildView('cabinets/evolution/e350');
-            break;
-
-            case "e400":
-                $this->buildView('cabinets/evolution/e400');
-            break;
-
-            case "e450":
-                $this->buildView('cabinets/evolution/e450');
-            break;
-
-            case "e500":
-                $this->buildView('cabinets/evolution/e500');
-            break;
-
-            case "e510":
-                $this->buildView('cabinets/evolution/e510');
-            break;
-
-            case "e520":
-                $this->buildView('cabinets/evolution/e520');
-            break;
-
-            case "e600":
-                $this->buildView('cabinets/evolution/e600');
-            break;
-
-            case "e840":
-                $this->buildView('cabinets/evolution/e840');
-            break;
-
-            case "e900":
-                $this->buildView('cabinets/evolution/e900');
+            case "locker":
+                $this->buildView('cabinets/evolution/locker');
             break;
 
             default:
