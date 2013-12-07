@@ -1,6 +1,6 @@
 <div class="container">
 
-    <h1>Geneva Base Cabinets</h1>
+    <h1>Evolution E-300 Cabinet</h1>
 
     <div class="product">
 

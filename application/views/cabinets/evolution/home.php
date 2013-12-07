@@ -70,7 +70,7 @@
         <div class="col-md-4">
             <a href="<?php echo base_url(); ?>cabinets/evolution/e900">
                 <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/evolution/e900.png" alt="E-900 Recessed Lighting">
-                <h2>E-900 Recessed Lighting</h2>
+                <h1>E-900 Recessed Lighting</h1>
             </a>
         </div>
     </div>
