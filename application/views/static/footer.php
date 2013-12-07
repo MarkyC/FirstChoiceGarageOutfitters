@@ -55,11 +55,11 @@
             <div class="col-md-2">
                 <h1><a href="<?php echo base_url(); ?>cabinets/">Cabinets</a></h1>
                 <ul>
-                    <li><a href="#">Evolution</a></li>
+                    <li><a href="<?php echo base_url(); ?>cabinets/evolution">Evolution</a></li>
                     <li><a href="<?php echo base_url(); ?>cabinets/geneva/">Geneva</a></li>
-                    <li><a href="#">Unique</a></li>
-                    <li><a href="#">Diamond Plate</a></li>
-                    <li><a href="#">Garage Gear</a></li>
+                    <li><a href="<?php echo base_url(); ?>cabinets/unique">Unique</a></li>
+                    <li><a href="<?php echo base_url(); ?>cabinets/diamond_plate">Diamond Plate</a></li>
+                    <li><a href="<?php echo base_url(); ?>cabinets/gladiator">Gladiator Garage Gear</a></li>
                 </ul>
             </div>
             <div class="col-md-2">

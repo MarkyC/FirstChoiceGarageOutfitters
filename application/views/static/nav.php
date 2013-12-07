@@ -18,13 +18,13 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product Catalogue <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a class="first" href="#">Cabinets <i class="icon-caret-right"></i></a>
+                            <a class="first" href="<?php echo base_url(); ?>cabinets">Cabinets <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
-                                <li><a class="first" href="#">Evolution</a></li>
+                                <li><a class="first" href="<?php echo base_url(); ?>cabinets/evolution">Evolution</a></li>
                                 <li><a href="<?php echo base_url(); ?>cabinets/geneva">Geneva</a></li>
-                                <li><a href="#">Unique</a></li>
-                                <li><a href="#">Diamond Plate</a></li>
-                                <li><a href="#">Garage Gear</a></li>
+                                <li><a href="<?php echo base_url(); ?>cabinets/unique">Unique</a></li>
+                                <li><a href="<?php echo base_url(); ?>cabinets/diamond_plate">Diamond Plate</a></li>
+                                <li><a href="<?php echo base_url(); ?>cabinets/gladiator">Gladiator Garage Gear</a></li>
                             </ul>
                         </li>
                         <li>
