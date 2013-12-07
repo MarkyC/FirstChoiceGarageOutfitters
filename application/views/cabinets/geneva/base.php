@@ -14,7 +14,7 @@
             </div>
             <div class="col-md-8">
                 <h1>2 Door Modular Base Cabinet</h1>
-                <h2>28"W x 24"D 34.5"H <small>(Optional wood top: 34.75 inches high)</small></h2>
+                <h2>28"W x 24"D x 34.5"H <small>(Optional wood top: 34.75 inches high)</small></h2>
                 <ul>
                     <li>Fully adjustable full extension drawer. Heavy duty all steel welded construction</li>
                     <li>Recessed side handles. Heavy duty Quick Grip 1/4 Turn locking actuator</li>
@@ -34,7 +34,7 @@
             </div>
             <div class="col-md-8">
                 <h1>5 Drawer Modular Storage Cabinet</h1>
-                <h2>28"W x 24"D 34.5"H <small>(Optional wood top: 34.75 inches high)</small></h2>
+                <h2>28"W x 24"D x 34.5"H <small>(Optional wood top: 34.75 inches high)</small></h2>
                 <ul>
                     <li>Heavy duty all steel welded construction</li>
                     <li>Recessed side handles. Heavy duty Quick Grip 1/4 Turn locking actuator</li>

@@ -10,15 +10,15 @@
             </a>
         </div>
         <div class="col-md-4">
-            <a href="<?php echo base_url(); ?>cabinets/evolution/e350">
-                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/evolution/e350_2.png" alt="E-350 Cabinet">
-                <h1>E-350 Cabinet</h1>
+            <a href="<?php echo base_url(); ?>cabinets/evolution/base">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/evolution/e500_1.png" alt="Base Cabinets">
+                <h1>Base Cabinets</h1>
             </a>
         </div>
         <div class="col-md-4">
-            <a href="<?php echo base_url(); ?>cabinets/evolution/e400">
-                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/evolution/e400_5.png" alt="E-400 Cabinet">
-                <h1>E-400 Cabinet</h1>
+            <a href="<?php echo base_url(); ?>cabinets/evolution/wall">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/evolution/e450_1.png" alt="Wall Cabinets">
+                <h1>Wall Cabinets</h1>
             </a>
         </div>
     </div>

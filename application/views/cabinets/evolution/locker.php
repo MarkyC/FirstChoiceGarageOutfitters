@@ -129,16 +129,6 @@
                              src="<?php echo base_url(); ?>img/cabinets/evolution/e400_5.png"
                              alt="Evolution E-400 Locker">
                     </a>
-                    <a href="<?php echo base_url(); ?>img/cabinets/evolution/e400_6.png">
-                        <img class="img-responsive"
-                             src="<?php echo base_url(); ?>img/cabinets/evolution/e400_6.png"
-                             alt="Evolution E-400 Locker">
-                    </a>
-                    <a href="<?php echo base_url(); ?>img/cabinets/evolution/e400_7.png">
-                        <img class="img-responsive"
-                             src="<?php echo base_url(); ?>img/cabinets/evolution/e400_7.png"
-                             alt="Evolution E-400 Locker">
-                    </a>
                 </div>
             </div>
             <div class="col-md-8">
