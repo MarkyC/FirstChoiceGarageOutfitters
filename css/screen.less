@@ -6,6 +6,7 @@
 @fc-red			: rgb(237, 028, 036);
 @med-red		: rgb(191, 023, 029);
 @darker-med-red	: darken(@med-red, 7%);
+@desat-red      : rgb(153, 051, 051);
 
 @light-grey		: rgb(233, 233, 233);
 
@@ -180,7 +181,15 @@ footer {
 footer h1, footer h2, footer h3,
 footer h4, footer h5, footer h6 {
   color: darken(@darker-med-red, 20%);
-  text-shadow: 1px 1px 0px #ccc;
+  text-shadow: 1px 1px 0px @desat-red;
+
+  a {
+    color: darken(@darker-med-red, 20%);
+    &:hover {
+      text-decoration: none;
+      color: darken(@darker-med-red, 30%);
+    }
+  }
 }
 
 footer h1 {
