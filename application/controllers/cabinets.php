@@ -55,7 +55,7 @@ class Cabinets extends CI_Controller {
         }
     }
 
-    private function buildView($page = 'cabinets/geneva/home') {
+    private function buildView($page = 'cabinets/home') {
         $this->load->helper('url');
 
         $this->load->view('static/site_header');
