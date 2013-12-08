@@ -1,0 +1,1 @@
+Color: Hammered Granite <span style="display:inline-block; width:50px; height: 25px; background-color: black"></span>

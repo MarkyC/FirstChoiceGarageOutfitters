@@ -131,6 +131,30 @@ class Cabinets extends CI_Controller {
                 $this->buildView($page);
         }
     }
+
+    public function gladiator($page = 'cabinets/gladiator/home') {
+        switch ($page) {
+
+            case "locker":
+                $this->buildView('cabinets/gladiator/locker');
+            break;
+
+            case "base":
+                $this->buildView('cabinets/gladiator/base');
+            break;
+
+            case "wall":
+                $this->buildView('cabinets/gladiator/wall');
+            break;
+
+            case "accessories":
+                $this->buildView('cabinets/gladiator/accessories');
+            break;
+
+            default:
+                $this->buildView($page);
+        }
+    }
 }
 
 /* End of file welcome.php */
