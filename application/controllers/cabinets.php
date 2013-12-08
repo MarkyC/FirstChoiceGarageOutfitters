@@ -21,6 +21,17 @@ class Cabinets extends CI_Controller {
         $this->buildView();
     }
 
+    private function buildView($page = 'cabinets/home') {
+        $this->load->helper('url');
+
+        $this->load->view('static/site_header');
+        $this->load->view('static/header');
+        $this->load->view('static/nav');
+        $this->load->view($page);
+        $this->load->view('static/footer');
+        $this->load->view('static/site_footer');
+    }
+
     public function evolution($page = 'cabinets/evolution/home') {
         switch ($page) {
 
@@ -77,15 +88,24 @@ class Cabinets extends CI_Controller {
         }
     }
 
-    private function buildView($page = 'cabinets/home') {
-        $this->load->helper('url');
+    public function unique($page = 'cabinets/unique/home') {
+        switch ($page) {
 
-        $this->load->view('static/site_header');
-        $this->load->view('static/header');
-        $this->load->view('static/nav');
-        $this->load->view($page);
-        $this->load->view('static/footer');
-        $this->load->view('static/site_footer');
+            case "graphic":
+                $this->buildView('cabinets/unique/graphic');
+            break;
+
+            case "standard":
+                $this->buildView('cabinets/unique/standard');
+            break;
+
+            case "accessories":
+                $this->buildView('cabinets/unique/accessories');
+            break;
+
+            default:
+                $this->buildView($page);
+        }
     }
 }
 
