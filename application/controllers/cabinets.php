@@ -36,6 +36,10 @@ class Cabinets extends CI_Controller {
                 $this->buildView('cabinets/evolution/wall');
             break;
 
+            case "accessories":
+                $this->buildView('cabinets/evolution/accessories');
+            break;
+
             default:
                 $this->buildView($page);
         }
