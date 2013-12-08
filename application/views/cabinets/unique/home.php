@@ -17,9 +17,9 @@
             </a>
         </div>
         <div class="col-md-4">
-            <a href="<?php echo base_url(); ?>cabinets/unique/wall">
+            <a href="<?php echo base_url(); ?>cabinets/unique/accessories">
                 <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/unique/Accessories/backpanel.jpg" alt="Unique Accessories">
-                <h1>Unique Accessories</h1>
+                <h1>Accessories</h1>
             </a>
         </div>
     </div>

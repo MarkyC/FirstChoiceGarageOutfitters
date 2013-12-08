@@ -6,11 +6,76 @@
 
         <div class="row">
             <div class="col-md-4">
-                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/" alt="Unique Graphic Series Cabinet">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomRonFellowsVette.jpg" alt="Unique Graphic Series Cabinet">
                 <div class="alt-view">
-                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/e500_1.png">
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/AstonMartinDBS.jpg">
                         <img class="img-responsive"
-                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/AstonMartinDBS.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomCLK65AMG.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomCLK65AMG.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomDBS.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomDBS.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomGT40.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomGT40.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomPorsche.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomPorsche.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomRonFellowsVette.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomRonFellowsVette.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomS7.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomS7.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomSuperleggera.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/CustomSuperleggera.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/doors.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/doors.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/handles.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/handles.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/harley.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/harley.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/Lambo.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/Lambo.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/legs.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/legs.jpg"
+                             alt="Unique Graphic Series Cabinet">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/worktop.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/cabinets/unique/GraphicSeries/worktop.jpg"
                              alt="Unique Graphic Series Cabinet">
                     </a>
                 </div>
@@ -38,7 +103,7 @@
                     <li> 84 3/4" total height (7'), 80 3/4" for the compartments and 4" for the legs</li>
                 </ul>
 
-                <h3>Other possible custom layouts available, <a href="<?php echo base_url(); ?>contact">contact us</a> for pricing &amp; details</h3>
+                <h4>Other possible custom layouts available, <a href="<?php echo base_url(); ?>contact">contact us</a> for pricing &amp; details</h4>
 
             </div>
         </div>
