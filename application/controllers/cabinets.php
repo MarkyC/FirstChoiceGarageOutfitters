@@ -123,6 +123,10 @@ class Cabinets extends CI_Controller {
                 $this->buildView('cabinets/diamond_plate/wall');
             break;
 
+            case "accessories":
+                $this->buildView('cabinets/diamond_plate/accessories');
+            break;
+
             default:
                 $this->buildView($page);
         }
