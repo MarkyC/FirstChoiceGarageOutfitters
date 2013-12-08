@@ -108,19 +108,19 @@ class Cabinets extends CI_Controller {
         }
     }
 
-    public function diamond_plate($page = 'cabinets/unique/home') {
+    public function diamond_plate($page = 'cabinets/diamond_plate/home') {
         switch ($page) {
 
-            case "graphic":
-                $this->buildView('cabinets/unique/graphic');
+            case "locker":
+                $this->buildView('cabinets/diamond_plate/locker');
             break;
 
-            case "standard":
-                $this->buildView('cabinets/unique/standard');
+            case "base":
+                $this->buildView('cabinets/diamond_plate/base');
             break;
 
-            case "accessories":
-                $this->buildView('cabinets/unique/accessories');
+            case "wall":
+                $this->buildView('cabinets/diamond_plate/wall');
             break;
 
             default:

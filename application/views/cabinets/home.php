@@ -26,7 +26,7 @@
     <div class="row">
         <div class="col-md-4">
             <a href="<?php echo base_url(); ?>cabinets/diamond_plate">
-                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/diamond-plate/package.gif" alt="Diamond Plate Cabinets">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/cabinets/diamond_plate/package.gif" alt="Diamond Plate Cabinets">
                 <h2>Diamond Plate Cabinets</h2>
             </a>
         </div>
