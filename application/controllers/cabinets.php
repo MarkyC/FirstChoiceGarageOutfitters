@@ -107,6 +107,26 @@ class Cabinets extends CI_Controller {
                 $this->buildView($page);
         }
     }
+
+    public function diamond_plate($page = 'cabinets/unique/home') {
+        switch ($page) {
+
+            case "graphic":
+                $this->buildView('cabinets/unique/graphic');
+            break;
+
+            case "standard":
+                $this->buildView('cabinets/unique/standard');
+            break;
+
+            case "accessories":
+                $this->buildView('cabinets/unique/accessories');
+            break;
+
+            default:
+                $this->buildView($page);
+        }
+    }
 }
 
 /* End of file welcome.php */
