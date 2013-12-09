@@ -72,7 +72,7 @@
             <div class="col-md-2">
                 <h1><a href="<?php echo base_url(); ?>flooring/">Flooring</a></h1>
                 <ul>
-                    <li><a href="<?php echo base_url(); ?>flooring/spartacote">HP Spartacote</a></li>
+                    <li><a href="<?php echo base_url(); ?>flooring/hp">HP Spartacote</a></li>
                     <li><a href="<?php echo base_url(); ?>flooring/racedeck">Racedeck</a></li>
                     <li><a href="<?php echo base_url(); ?>flooring/locktile">Lock-Tile</a></li>
                     <li><a href="<?php echo base_url(); ?>flooring/epoxy">Epoxy</a></li>

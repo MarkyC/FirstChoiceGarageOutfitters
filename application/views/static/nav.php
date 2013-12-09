@@ -37,7 +37,7 @@
                         <li>
                             <a href="<?php echo base_url(); ?>flooring">Flooring <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
-                                <li><a class="first" href="<?php echo base_url(); ?>flooring/spartacote">HP Spartacote <small>Lifetime Warranty</small></a></li>
+                                <li><a class="first" href="<?php echo base_url(); ?>flooring/hp">HP Spartacote <small>Lifetime Warranty</small></a></li>
                                 <li><a href="<?php echo base_url(); ?>flooring/racedeck">Racedeck</a></li>
                                 <li><a href="<?php echo base_url(); ?>flooring/locktile">Lock-Tile</a></li>
                                 <li><a href="<?php echo base_url(); ?>flooring/epoxy">Epoxy</a></li>
