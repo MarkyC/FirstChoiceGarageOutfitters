@@ -28,31 +28,31 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="#">Wall Organization <i class="icon-caret-right"></i></a>
+                            <a href="<?php echo base_url(); ?>wall_organization">Wall Organization <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
-                                <li><a class="first" href="#">Slat Wall</a></li>
-                                <li><a href="#">Tire Racks</a></li>
+                                <li><a class="first" href="<?php echo base_url(); ?>wall_organization/slat_wall">Slat Wall</a></li>
+                                <li><a href="<?php echo base_url(); ?>wall_organization/tire_racks">Tire Racks</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="#">Flooring <i class="icon-caret-right"></i></a>
+                            <a href="<?php echo base_url(); ?>flooring">Flooring <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
-                                <li><a class="first" href="#">HP Spartacote <small>Lifetime Warranty</small></a></li>
-                                <li><a href="#">Racedeck</a></li>
-                                <li><a href="#">Lock-Tile</a></li>
-                                <li><a href="#">Epoxy</a></li>
+                                <li><a class="first" href="<?php echo base_url(); ?>flooring/spartacote">HP Spartacote <small>Lifetime Warranty</small></a></li>
+                                <li><a href="<?php echo base_url(); ?>flooring/racedeck">Racedeck</a></li>
+                                <li><a href="<?php echo base_url(); ?>flooring/locktile">Lock-Tile</a></li>
+                                <li><a href="<?php echo base_url(); ?>flooring/epoxy">Epoxy</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="#">Overhead Storage <i class="icon-caret-right"></i></a>
+                            <a href="<?php echo base_url(); ?>overhead_storage">Overhead Storage <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
-                                <li><a class="first" href="#">Monster Racks</a></li>
-                                <li><a href="#">Bike Slingger</a></li>
-                                <li><a href="#">Heavy Lifts</a></li>
+                                <li><a class="first" href="<?php echo base_url(); ?>overhead_storage/monster_racks">Monster Racks</a></li>
+                                <li><a href="<?php echo base_url(); ?>overhead_storage/bike_slingger">Bike Slingger</a></li>
+                                <li><a href="<?php echo base_url(); ?>overhead_storage/heavy_lifts">Heavy Lifts</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Automotive Lifts</a></li>
-                        <li><a href="#">Accessories</a></li>
+                        <li><a href="<?php echo base_url(); ?>lifts">Automotive Lifts</a></li>
+                        <li><a href="<?php echo base_url(); ?>accessories">Garage Accessories</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Gallery</a></li>

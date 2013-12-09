@@ -65,32 +65,32 @@
             <div class="col-md-2">
                 <h1><a href="<?php echo base_url(); ?>wall_organization/">Wall Organization</a></h1>
                 <ul>
-                    <li><a href="#">Slat Wall</a></li>
-                    <li><a href="#">Tire Racks</a></li>
+                    <li><a href="<?php echo base_url(); ?>wall_organization/slat_wall">Slat Wall</a></li>
+                    <li><a href="<?php echo base_url(); ?>wall_organization/tire_racks">Tire Racks</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
                 <h1><a href="<?php echo base_url(); ?>flooring/">Flooring</a></h1>
                 <ul>
-                    <li><a href="#">HP Spartacote</a></li>
-                    <li><a href="#">Racedeck</a></li>
-                    <li><a href="#">Lock-Tile</a></li>
-                    <li><a href="#">Epoxy</a></li>
+                    <li><a href="<?php echo base_url(); ?>flooring/spartacote">HP Spartacote</a></li>
+                    <li><a href="<?php echo base_url(); ?>flooring/racedeck">Racedeck</a></li>
+                    <li><a href="<?php echo base_url(); ?>flooring/locktile">Lock-Tile</a></li>
+                    <li><a href="<?php echo base_url(); ?>flooring/epoxy">Epoxy</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
-                <h1><a href="<?php echo base_url(); ?>overhead/">Overhead Storage</a></h1>
+                <h1><a href="<?php echo base_url(); ?>overhead_storage/">Overhead Storage</a></h1>
                 <ul>
-                    <li><a href="#">Monster Racks</a></li>
-                    <li><a href="#">Bike Slingger</a></li>
-                    <li><a href="#">Heavy Lifts</a></li>
+                    <li><a href="<?php echo base_url(); ?>overhead_storage/monster_racks">Monster Racks</a></li>
+                    <li><a href="<?php echo base_url(); ?>overhead_storage/bike_slingger">Bike Slingger</a></li>
+                    <li><a href="<?php echo base_url(); ?>overhead_storage/heavy_lifts">Heavy Lifts</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
                 <h1><a href="<?php echo base_url(); ?>other_services">Other Services</a></h1>
                 <ul>
-                    <li><a href="#">Automotive Lifts</a></li>
-                    <li><a href="#">Accessories</a></li>
+                    <li><a href="<?php echo base_url(); ?>lifts">Automotive Lifts</a></li>
+                    <li><a href="<?php echo base_url(); ?>accessories">Accessories</a></li>
                 </ul>
             </div>
         </div>
