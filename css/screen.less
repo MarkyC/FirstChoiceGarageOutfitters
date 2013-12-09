@@ -49,13 +49,13 @@
 body {
 	background: @light-grey;
     font-size: 16px;
-}
 
-a {
-  color: @darker-med-red;
+  a {
+    color: @darker-med-red;
 
-  &:hover {
-    darken(@darker-med-red, 10%);
+    &:hover {
+      //darken(@darker-med-red, 5%);
+    }
   }
 }
 
@@ -423,5 +423,21 @@ footer .nav {
     width:75px;
     height:75px;
     margin: 0;
+  }
+}
+
+.slat-wall-accessory {
+  border: 1px solid @darker-med-red;
+  background: white;
+  padding: 15px;
+
+  img {
+    margin: 0 auto;
+    height: 150px;
+    width: auto;
+  }
+
+  h1 {
+    font-size: 1.4em;
   }
 }
