@@ -35,20 +35,20 @@
                             </ul>
                         </li>
                         <li>
+                            <a href="<?php echo base_url(); ?>overhead_storage">Overhead Storage <i class="icon-caret-right"></i></a>
+                            <ul class="dropdown-menu sub-menu">
+                                <li><a class="first" href="<?php echo base_url(); ?>overhead_storage/monster_racks">Monster Racks</a></li>
+                                <li><a href="<?php echo base_url(); ?>overhead_storage/bike_slingger">Bike Slingger</a></li>
+                                <li><a href="<?php echo base_url(); ?>overhead_storage/heavy_lifts">Heavy Lifts</a></li>
+                            </ul>
+                        </li>
+                        <li>
                             <a href="<?php echo base_url(); ?>flooring">Flooring <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
                                 <li><a class="first" href="<?php echo base_url(); ?>flooring/hp">HP Spartacote <small>Lifetime Warranty</small></a></li>
                                 <li><a href="<?php echo base_url(); ?>flooring/racedeck">Racedeck</a></li>
                                 <li><a href="<?php echo base_url(); ?>flooring/locktile">Lock-Tile</a></li>
                                 <li><a href="<?php echo base_url(); ?>flooring/epoxy">Epoxy</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="<?php echo base_url(); ?>overhead_storage">Overhead Storage <i class="icon-caret-right"></i></a>
-                            <ul class="dropdown-menu sub-menu">
-                                <li><a class="first" href="<?php echo base_url(); ?>overhead_storage/monster_racks">Monster Racks</a></li>
-                                <li><a href="<?php echo base_url(); ?>overhead_storage/bike_slingger">Bike Slingger</a></li>
-                                <li><a href="<?php echo base_url(); ?>overhead_storage/heavy_lifts">Heavy Lifts</a></li>
                             </ul>
                         </li>
                         <li><a href="<?php echo base_url(); ?>lifts">Automotive Lifts</a></li>
