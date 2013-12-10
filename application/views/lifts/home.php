@@ -3,7 +3,7 @@
     <h1>Pro Park Lifts</h1>
 
     <div class="alert alert-info">
-        <strong><a href="#calculator" class="alert-link">Want to calculate how much height you need? Try out Garage Height Calculator</a></strong>
+        Unsure how much garage space you need? Try our <strong><a href="#calculator" class="alert-link">Garage Height Calculator</a></strong>
     </div>
 
     <div class="product">
