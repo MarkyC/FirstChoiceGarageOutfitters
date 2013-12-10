@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Overhead_Storage extends CI_Controller {
+class Lifts extends CI_Controller {
 
     /**
      * Index Page for this controller.
@@ -21,36 +21,15 @@ class Overhead_Storage extends CI_Controller {
         $this->buildView();
     }
 
-    private function buildView($page = 'overhead_storage/home') {
+    private function buildView($page = 'lifts/home') {
         $this->load->helper('url');
 
         $this->load->view('static/site_header');
         $this->load->view('static/header');
         $this->load->view('static/nav');
         $this->load->view($page);
-        $this->load->view('overhead_storage/expect');
         $this->load->view('static/footer');
         $this->load->view('static/site_footer');
     }
 
-    public function monster_racks($page = 'overhead_storage/monster_racks') {
-        switch ($page) {
-            default:
-                $this->buildView($page);
-        }
-    }
-
-    public function slingger($page = 'overhead_storage/slingger') {
-        switch ($page) {
-            default:
-                $this->buildView($page);
-        }
-    }
-
-    public function heavy_lifts($page = 'overhead_storage/heavy_lifts') {
-        switch ($page) {
-            default:
-                $this->buildView($page);
-        }
-    }
 }
