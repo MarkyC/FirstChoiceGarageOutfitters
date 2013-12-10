@@ -28,17 +28,22 @@ class Overhead_Storage extends CI_Controller {
         $this->load->view('static/header');
         $this->load->view('static/nav');
         $this->load->view($page);
+        $this->load->view('overhead_storage/expect');
         $this->load->view('static/footer');
         $this->load->view('static/site_footer');
     }
 
-    public function hp($page = 'overhead_storage/monster_racks') {
+    public function monster_racks($page = 'overhead_storage/monster_racks') {
+        switch ($page) {
+            default:
+                $this->buildView($page);
+        }
+    }
+
+    public function slingger($page = 'overhead_storage/slingger') {
         switch ($page) {
             default:
                 $this->buildView($page);
         }
     }
 }
-
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */

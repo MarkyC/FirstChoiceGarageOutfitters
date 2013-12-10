@@ -1,0 +1,7 @@
+<div class="container expect">
+    <div class="col-xs-12">
+        <h1>Professional Installation</h1>
+        <p>To save time and get the job done, Have one of our professional installers do the Installation. We stock most popular sizes and colors and are happy to give you a free in home consultation on maximizing your overhead space. At 1st Choice Garage Outfitters we know the business of overhead racks and know how to install them properly, safely and quickly.  Upon installation of your overhead storage rack.  First and foremost, the garage space must be clear for the installer to setup, measure and install your new Monster Rax overhead storage unit, you can rest assure that our installers can get the job done right. At 1st Choice Garage we are very familiar with home and garage organization. 1st Choice Garage Outfitters are experts in Garage organization & Overhead storage and can help eliminate the clutter in your garage.</p>
+        <p>Either way you choose, 1st Choice Garage  is here to help.  If for any reason you are not satisfied with your garage overhead rack or the installation process, tell us about it.  It is our sincere desire to make this a seamless and enjoyable process. <a href="<?php echo base_url(); ?>contact/">Contact us anytime and one of our customer care representatives will help.</a></p>
+    </div>
+</div>

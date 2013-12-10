@@ -6,12 +6,42 @@
 
         <div class="row">
             <div class="col-md-4">
-                <img class="img-responsive" src="<?php echo base_url(); ?>img/flooring/locktile/flexibletile.jpg" alt="Epoxy Flooring">
+                <img class="img-responsive" src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg" alt="Epoxy Flooring">
                 <div class="alt-view">
-                    <a href="<?php echo base_url(); ?>img/flooring/locktile/flexibletile.jpg">
+                    <a href="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg">
                         <img class="img-responsive"
-                             src="<?php echo base_url(); ?>img/flooring/locktile/flexibletile.jpg"
-                             alt="LockTile Flooring">
+                             src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg"
+                             alt="Epoxy Flooring">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg"
+                             alt="Epoxy Flooring">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg"
+                             alt="Epoxy Flooring">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg"
+                             alt="Epoxy Flooring">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg"
+                             alt="Epoxy Flooring">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg"
+                             alt="Epoxy Flooring">
+                    </a>
+                    <a href="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg">
+                        <img class="img-responsive"
+                             src="<?php echo base_url(); ?>img/flooring/epoxy/epoxy-floor.jpg"
+                             alt="Epoxy Flooring">
                     </a>
                 </div>
             </div>

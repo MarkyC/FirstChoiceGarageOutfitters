@@ -55,10 +55,10 @@
                         <li><a href="<?php echo base_url(); ?>accessories">Garage Accessories</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="#t">Request a Quote</a></li>
-                <li><a href="#t">Contact</a></li>
-                <li><a href="#t">About</a></li>
+                <li><a href="<?php echo base_url(); ?>gallery/">Gallery</a></li>
+                <li><a href="<?php echo base_url(); ?>request_quote">Request a Quote</a></li>
+                <li><a href="<?php echo base_url(); ?>contact/">Contact</a></li>
+                <li><a href="<?php echo base_url(); ?>about/">About</a></li>
 
             </ul>
         </div><!--/.nav-collapse -->
