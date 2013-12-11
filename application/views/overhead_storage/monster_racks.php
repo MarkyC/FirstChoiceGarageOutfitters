@@ -77,7 +77,14 @@
             </div>
             <div class="col-md-8">
                 <h1>Monster Racks</h1>
-                <p>Description</p>
+                <ul>
+                    <li>Industrial Gauge Steel</li>
+                    <li>Powder Coated Finish</li>
+                    <li>Zinc Coated Wire Decking</li>
+                    <li>"C" Channel Beams on 6' and 8' Units</li>
+                    <li>Heavy Duty Center Supprts</li>
+                    <li>High Grade Mounting Hardware</li>
+                </ul>
                 <h2>Sizes (Wight Capacity)</h2>
                 <ul>
                     <li>4' x 8' (600lbs)</li>
