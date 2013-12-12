@@ -52,28 +52,29 @@
     <h1>Slat Wall Accessories</h1>
     <p>First Choice Garage Outfitters has many accessories for our slat wall system.</p>
 
-    <div class="container accessories">
+
+    <div class="accessories">
         <h1>Basic Garage Setup</h1>
         <div class="row">
         <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
 
             <img title="HSB0312B" alt="HSB0312B" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hsb0312b-3x12-basket.jpg" height="129" width="195">
 
-            <h1>HSB0312B</h1><h2>3" x 12" Basket</h2>
+            <h1>HSB0312B</h1><h2>3"&nbsp;x&nbsp;12"&nbsp;Basket</h2>
         </div>
 
         <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
 
             <img title="HSS1448B" alt="HSS1448B" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hss1448b.jpg" height="129" width="195">
 
-            <h1>HSS1448B</h1><h2>14" x 48" Shelf</h2>
+            <h1>HSS1448B</h1><h2>14"&nbsp;x&nbsp;48"&nbsp;Shelf</h2>
         </div>
 
         <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
 
             <img title="HSS1424B" alt="HSS1424B" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hss1424b.jpg" height="129" width="195">
 
-            <h1>HSS1424B</h1><h2>14" x 24" Shelf</h2>
+            <h1>HSS1424B</h1><h2>14"&nbsp;x&nbsp;24"&nbsp;Shelf</h2>
 
         </div>
 
@@ -82,7 +83,7 @@
 
             <img title="HSB1218B" alt="HSB1218B" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hsb1218b.jpg" height="129" width="195">
 
-            <h1>HSB1218B</h1><h2>12" x 18" Basket</h2>
+            <h1>HSB1218B</h1><h2>12"&nbsp;x&nbsp;18"&nbsp;Basket</h2>
 
         </div>
 
@@ -90,14 +91,14 @@
 
             <img title="HSB0812B" alt="HSB0812B" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hsb0812b.jpg" height="129" width="195">
 
-            <h1>HSB0812B</h1><h2>8" x 12" Basket</h2>
+            <h1>HSB0812B</h1><h2>8"&nbsp;x&nbsp;12"&nbsp;Basket</h2>
         </div>
 
         <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
 
             <img title="HSS1324B" alt="HSS1324B" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hss1324b-13x24-shoe-rack-propped-cmyk_.jpg" height="129" width="195">
 
-            <h1>HSS1324B</h1><h2>Shoe Rack 13" x 24"</h2>
+            <h1>HSS1324B</h1><h2>Shoe Rack 13"&nbsp;x&nbsp;24"</h2>
 
         </div>
 
@@ -106,7 +107,7 @@
 
             <img title="HSB1224B" alt="HSB1224B" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hsb1224b.jpg" height="129" width="195">
 
-            <h1>HSB1224B</h1><h2>12" x 24" Basket</h2>
+            <h1>HSB1224B</h1><h2>12"&nbsp;x&nbsp;24"&nbsp;Basket</h2>
 
         </div>
 
@@ -114,7 +115,7 @@
 
             <img title="HSCS4545" alt="HSCS4545" src="http://www.handisolutions.com/wp-content/gallery/product-in-the-garage/thumbs/thumbs_hscs4545-ceiling-storage-rack-rgb_.jpg" height="129" width="195">
 
-            <h1>HSCS4545</h1><h2>Ceiling Rack 45" x 45"</h2>
+            <h1>HSCS4545</h1><h2>Ceiling Rack 45"&nbsp;x&nbsp;45"</h2>
 
         </div>
 
@@ -292,7 +293,7 @@
 
                 <img title="HSHN3624B" alt="HSHN3624B" src="http://www.handisolutions.com/wp-content/gallery/sports-center/thumbs/thumbs_blackmesh-small-0076.jpg" height="129" width="195">
 
-                <h1>HSHN3624B</h1><h2>Black HandiNet 36" x 24"</h2>
+                <h1>HSHN3624B</h1><h2>Black HandiNet 36"&nbsp;x&nbsp;24"</h2>
             </div>
 
             <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
@@ -430,7 +431,7 @@
 
                 <img title="HSGC" alt="HSGC" src="http://www.handisolutions.com/wp-content/gallery/garden-center/thumbs/thumbs_hsgc-propped.jpg" height="129" width="195">
 
-                <h1>HSGC</h1><h2>Garden Center 24" x  23" x 19"</h2>
+                <h1>HSGC</h1><h2>Garden Center 24"&nbsp;x&nbsp; 23"&nbsp;x&nbsp;19"</h2>
             </div>
 
             <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
@@ -444,7 +445,7 @@
 
                 <img title="HSS1324B" alt="HSS1324B" src="http://www.handisolutions.com/wp-content/gallery/garden-center/thumbs/thumbs_hss1324b-13x24-shoe-rack-propped.jpg" height="129" width="195">
 
-                <h1>HSS1324B</h1><h2>Shoe Rack 13" x 24"</h2>
+                <h1>HSS1324B</h1><h2>Shoe Rack 13"&nbsp;x&nbsp;24"</h2>
             </div>
 
 
@@ -452,14 +453,14 @@
 
                 <img title="HSS1424B" alt="HSS1424B" src="http://www.handisolutions.com/wp-content/gallery/garden-center/thumbs/thumbs_hss1424b.jpg" height="129" width="195">
 
-                <h1>HSS1424B</h1><h2>14" x 24" Shelf</h2>
+                <h1>HSS1424B</h1><h2>14"&nbsp;x&nbsp;24"&nbsp;Shelf</h2>
             </div>
 
             <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
 
                 <img title="HSS1448B" alt="HSS1448B" src="http://www.handisolutions.com/wp-content/gallery/garden-center/thumbs/thumbs_hss1448b.jpg" height="129" width="195">
 
-                <h1>HSS1448B</h1><h2>14" x 48" Shelf</h2>
+                <h1>HSS1448B</h1><h2>14"&nbsp;x&nbsp;48"&nbsp;Shelf</h2>
             </div>
 
             <div class="col-lg-3 col-md-4 col-xs-6 slat-wall-accessory">
