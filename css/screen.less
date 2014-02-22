@@ -59,6 +59,10 @@ body {
   }
 }
 
+label {
+  display: block;
+}
+
 .body-container {
 	padding: 30px 5px;
 }
@@ -87,7 +91,7 @@ div.logo {
 }
 
 .navbar-nav > li > a {
-	color: darken(white, 5%);
+	color: white;
 }
 
 .navbar-nav > li > a:hover,
@@ -125,7 +129,8 @@ div.logo {
 
 .dropdown-menu > li > a:focus,
 .dropdown-menu > li > a:hover {
-	background: @med-red;
+  background: @med-red;
+  color: darken(white, 5%);
 }
 
 .dropdown-menu  > li > a.first {
@@ -220,6 +225,14 @@ footer .copyright {
 	
 	background: darken(@darker-med-red, 10%);
 	color: @light-grey;
+
+  a {
+    color: lighten(@med-red, 10%);
+
+    &:hover, &:focus, &:active {
+      color: lighten(@med-red, 15%);
+    }
+  }
 }
 
 footer .about ul {
@@ -530,4 +543,25 @@ footer .nav {
   .result {
     font-size: 1.3em;
   }
+}
+
+/* Form control is a form input element */
+.form-control{
+
+  border-color: @darker-med-red;
+
+  &:focus {
+    border-color: @med-red;
+    outline: 0px none;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px fade(@med-red, 60%);
+  }
+}
+
+.white-bg-padding {
+  padding: 30px;
+  background: white;
+}
+
+.white-bg-padding+footer {
+  margin-top: 0;
 }

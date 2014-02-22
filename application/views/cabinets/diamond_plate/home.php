@@ -53,15 +53,17 @@
             <h2>96"W x 22"D x 84"H</h2>
             <p>This cabinet has the same great deluxe base cabinet. Featuring 2 point lockable latch, and adjustable shelf. The overhead is a full length cabinet with gas charged shocks to keep door open and closed. This way the door stays up and out of the way when in use.</p>
         </div>
-    </div>
-
-    <div class="row package">
+        <div class="clearfix"></div>
         <div class="col-md-4">
             <img class="img-responsive" src="http://placehold.it/250x250" alt="8' Deluxe Base with 8' Deluxe Overhead Garage Cabinet">
             <h1>8' Deluxe Base with 8' Deluxe Overhead Garage Cabinet</h1>
             <h2>96"W x 22"D x 78"H</h2>
             <p>Great diamond plate material. This combo has a 16” tall upper cabinet. Store many big and small items. All you neighbors will be jealous. Fully adjustable shelves. Base cabinet shelf is 16” deep. Great Place to store all those things on the ground, or in the way. Also a great place to work on things. Great diamond plate material is easy to clean and will never rust, rot, or damage from being wet. Ad on Pegboard and a light kit to make the neighbors even more jealous. Like all of our cabinets these are completely ssembled and ready to go. If you would like a smooth counter top on this cabinet please just click the option above. The price is the same.</p>
         </div>
+    </div>
+
+    <div class="row package">
+
     </div>
 
 </div> <!-- /container -->

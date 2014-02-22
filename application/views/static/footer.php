@@ -9,16 +9,46 @@
             </div>
             <div class="col-md-4 partners">
                 <h1>Partners</h1>
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
-                <img src="http://placehold.it/150x60" alt="placeholder">
+                <a href="" title="Bull Cabinets">
+                    <img src="<?php echo base_url(); ?>img/partners/bull.png"
+                         alt="Bull Cabinets">
+                </a>
+                <a href="http://www.evolutionstorage.com/" title="Evolution Cabinets">
+                    <img src="<?php echo base_url(); ?>img/partners/evolution.png"
+                         alt="Evolution Cabinets">
+                </a>
+                <a href="http://www.genevagaragegear.com" title="Geneva Cabinets">
+                    <img src="<?php echo base_url(); ?>img/partners/geneva.png"
+                         alt="Geneva Cabinets">
+                </a>
+                <a href="http://www.gladiatorgarageworks.com/" title="Gladiator Cabinets">
+                    <img src="<?php echo base_url(); ?>img/partners/gladiator.png"
+                         alt="Gladiator Cabinets">
+                </a>
+                <a href="http://www.handisolutions.com/" title="HandiWall">
+                    <img src="<?php echo base_url(); ?>img/partners/handi.png"
+                         alt="HandiWall">
+                </a>
+                <a href="http://www.racedeck.com/" title="Hot Dawg">
+                    <img src="<?php echo base_url(); ?>img/partners/hotdawg.png"
+                         alt="Hot Dawg">
+                </a>
+                <a href="http://www.hpspartacote.com/" title="HP Spartacote Flooring">
+                    <img src="<?php echo base_url(); ?>img/partners/hp.png"
+                         alt="HP Spartacote Flooring">
+                </a>
+                <a href="http://www.locktileusa.com/" title="LockTile Flooring">
+                    <img src="<?php echo base_url(); ?>img/partners/locktile.png"
+                         alt="LockTile Flooring">
+                </a>
+                <a href="http://www.monsterrax.com/" title="Monster Rax Overhead Storage">
+                    <img src="<?php echo base_url(); ?>img/partners/monsterrax.png"
+                         alt="Monster Rax Overhead Storage">
+                </a>
+                <a href="http://www.racedeck.com/" title="RaceDeck Flooring">
+                    <img src="<?php echo base_url(); ?>img/partners/racedeck.png"
+                         alt="RaceDeck Flooring">
+                </a>
             </div>
             <div class="col-md-4 about">
                 <h1>About First Choice Garage</h1>
@@ -46,10 +76,10 @@
                 <h1>Navigation</h1>
                 <ul>
                     <li><a href="<?php echo base_url(); ?>">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Gallery</a></li>
-                    <li><a href="#">Contact</a></li>
-                    <li><a href="#">Request a Quote</a></li>
+                    <!--<li><a href="<?php echo base_url(); ?>gallery/">Gallery</a></li>-->
+                    <li><a href="<?php echo base_url(); ?>contact/request_quote">Request a Quote</a></li>
+                    <li><a href="<?php echo base_url(); ?>contact">Contact</a></li>
+                    <li><a href="<?php echo base_url(); ?>about">About</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
@@ -82,7 +112,7 @@
                 <h1><a href="<?php echo base_url(); ?>overhead_storage/">Overhead Storage</a></h1>
                 <ul>
                     <li><a href="<?php echo base_url(); ?>overhead_storage/monster_racks">Monster Racks</a></li>
-                    <li><a href="<?php echo base_url(); ?>overhead_storage/bike_slingger">Bike Slingger</a></li>
+                    <li><a href="<?php echo base_url(); ?>overhead_storage/slingger">Bike Slingger</a></li>
                     <li><a href="<?php echo base_url(); ?>overhead_storage/heavy_lifts">Heavy Lifts</a></li>
                 </ul>
             </div>

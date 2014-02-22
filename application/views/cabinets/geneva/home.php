@@ -46,8 +46,8 @@
 
     <h1>Packages</h1>
 
-    <div class="row package">
-        <div class="col-md-6">
+    <div class="row">
+        <div class="col-md-6 package">
             <img src="<?php echo base_url(); ?>img/cabinets/geneva/package.jpg" alt="Package">
             <h1>Complete Geneva Package</h1>
             <ul>

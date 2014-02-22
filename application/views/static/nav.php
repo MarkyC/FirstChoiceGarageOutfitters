@@ -38,7 +38,7 @@
                             <a href="<?php echo base_url(); ?>overhead_storage">Overhead Storage <i class="icon-caret-right"></i></a>
                             <ul class="dropdown-menu sub-menu">
                                 <li><a class="first" href="<?php echo base_url(); ?>overhead_storage/monster_racks">Monster Racks</a></li>
-                                <li><a href="<?php echo base_url(); ?>overhead_storage/bike_slingger">Bike Slingger</a></li>
+                                <li><a href="<?php echo base_url(); ?>overhead_storage/slingger">Bike Slingger</a></li>
                                 <li><a href="<?php echo base_url(); ?>overhead_storage/heavy_lifts">Heavy Lifts</a></li>
                             </ul>
                         </li>
@@ -55,10 +55,10 @@
                         <li><a href="<?php echo base_url(); ?>accessories">Garage Accessories</a></li>
                     </ul>
                 </li>
-                <li><a href="<?php echo base_url(); ?>gallery/">Gallery</a></li>
-                <li><a href="<?php echo base_url(); ?>request_quote">Request a Quote</a></li>
-                <li><a href="<?php echo base_url(); ?>contact/">Contact</a></li>
-                <li><a href="<?php echo base_url(); ?>about/">About</a></li>
+                <!--<li><a href="<?php echo base_url(); ?>gallery/">Gallery</a></li>-->
+                <li><a href="<?php echo base_url(); ?>contact/request_quote">Request a Quote</a></li>
+                <li><a href="<?php echo base_url(); ?>contact">Contact</a></li>
+                <li><a href="<?php echo base_url(); ?>about">About</a></li>
 
             </ul>
         </div><!--/.nav-collapse -->

@@ -2,8 +2,6 @@
 
     <h1>Slat Wall</h1>
 
-    <p>Lorem ipsum</p>
-
     <div class="product">
 
         <div class="row">
