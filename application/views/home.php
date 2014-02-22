@@ -6,7 +6,7 @@
             Now featuring HP Spartacote, the <em>lifetime gauranteed</em> garage flooring system
         </p>
         <div class="spartacote">
-            <img src="<?php base_url(); ?>img/spartacote-small-logo.png" alt="HP Spartacote: The Worlds Best Flooring System">
+            <a href="<?php echo base_url(); ?>flooring/hp" title="HP Spartacote Garage Flooring System"><img src="<?php base_url(); ?>img/spartacote-small-logo.png" alt="HP Spartacote: The Worlds Best Flooring System"></a>
             <!--<button class="btn btn-lg btn-default">Learn More</button>-->
         </div>
     </div>
