@@ -3,7 +3,7 @@
     <div class="container">
         <h1>We Make Your Garage <strong>Beautiful</strong></h1>
         <p class="lead">
-            Now featuring HP Spartacote, the <em>lifetime gauranteed</em> garage flooring system
+            Now featuring HP Spartacote, the <em>world's best</em> garage flooring system
         </p>
         <div class="spartacote">
             <a href="<?php echo base_url(); ?>flooring/hp" title="HP Spartacote Garage Flooring System"><img src="<?php base_url(); ?>img/spartacote-small-logo.png" alt="HP Spartacote: The Worlds Best Flooring System"></a>
