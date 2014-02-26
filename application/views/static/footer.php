@@ -13,39 +13,39 @@
                     <img src="<?php echo base_url(); ?>img/partners/bull.png"
                          alt="Bull Cabinets">
                 </a>
-                <a href="http://www.evolutionstorage.com/" title="Evolution Cabinets">
+                <a href="<?php echo base_url(); ?>cabinets/evolution" title="Evolution Cabinets">
                     <img src="<?php echo base_url(); ?>img/partners/evolution.png"
                          alt="Evolution Cabinets">
                 </a>
-                <a href="http://www.genevagaragegear.com" title="Geneva Cabinets">
+                <a href="<?php echo base_url(); ?>cabinets/geneva" title="Geneva Cabinets">
                     <img src="<?php echo base_url(); ?>img/partners/geneva.png"
                          alt="Geneva Cabinets">
                 </a>
-                <a href="http://www.gladiatorgarageworks.com/" title="Gladiator Cabinets">
+                <a href="<?php echo base_url(); ?>cabinets/gladiator" title="Gladiator Cabinets">
                     <img src="<?php echo base_url(); ?>img/partners/gladiator.png"
                          alt="Gladiator Cabinets">
                 </a>
-                <a href="http://www.handisolutions.com/" title="HandiWall">
+                <a href="<?php echo base_url(); ?>wall_organization/slat_wall" title="HandiWall">
                     <img src="<?php echo base_url(); ?>img/partners/handi.png"
                          alt="HandiWall">
                 </a>
-                <a href="http://www.racedeck.com/" title="Hot Dawg">
+                <a href="<?php echo base_url(); ?>accessories" title="Hot Dawg">
                     <img src="<?php echo base_url(); ?>img/partners/hotdawg.png"
                          alt="Hot Dawg">
                 </a>
-                <a href="http://www.hpspartacote.com/" title="HP Spartacote Flooring">
+                <a href="<?php echo base_url(); ?>flooring/hp" title="HP Spartacote Flooring">
                     <img src="<?php echo base_url(); ?>img/partners/hp.png"
                          alt="HP Spartacote Flooring">
                 </a>
-                <a href="http://www.locktileusa.com/" title="LockTile Flooring">
+                <a href="<?php echo base_url(); ?>flooring/locktile" title="LockTile Flooring">
                     <img src="<?php echo base_url(); ?>img/partners/locktile.png"
                          alt="LockTile Flooring">
                 </a>
-                <a href="http://www.monsterrax.com/" title="Monster Rax Overhead Storage">
+                <a href="<?php echo base_url(); ?>overhead_storage/monster_racks" title="Monster Rax Overhead Storage">
                     <img src="<?php echo base_url(); ?>img/partners/monsterrax.png"
                          alt="Monster Rax Overhead Storage">
                 </a>
-                <a href="http://www.racedeck.com/" title="RaceDeck Flooring">
+                <a href="<?php echo base_url(); ?>flooring/racedeck" title="RaceDeck Flooring">
                     <img src="<?php echo base_url(); ?>img/partners/racedeck.png"
                          alt="RaceDeck Flooring">
                 </a>
